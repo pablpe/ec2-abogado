@@ -1,0 +1,3 @@
+pablopc.com {
+  reverse_proxy wordpress:80
+}
