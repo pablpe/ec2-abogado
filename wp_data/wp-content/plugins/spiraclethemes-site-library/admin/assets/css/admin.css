@@ -1,0 +1,249 @@
+form#ssl-settings {
+    background: #fff;
+    margin-top: 70px;
+}
+
+.ssl-header-wrapper {
+    padding: 20px;
+    overflow: hidden;
+}
+
+.ssl-title-left {
+    width: 80%;
+    float: left;
+}
+
+h1.ssl-title-main {
+    line-height: 1.3em;
+    font-size: 28px;
+    margin-top: 5px;
+}
+
+.ssl-title-sub {
+    color:#777;
+    font-weight: normal;
+    margin-left: 3px;
+}
+
+.ssl-title-right {
+    float: right;
+}
+
+.button.ssl-btn {
+    border: none;
+    color: #fff;
+    text-align: center;
+    padding: 3px;
+    max-width: 250px;
+    height: auto;
+    margin-bottom: 15px;
+    display: block;
+    font-weight: bold;
+    box-shadow: none;
+}
+
+.ssl-btn.ssl-save-button {
+    border: 1px solid #ed485f;
+    margin-bottom: 0;
+    margin-top: 30px;
+    padding: 8px 15px;
+    color: #ed485f;
+    border-radius: 0;
+    transition: all 0.3s ease;
+}
+
+.ssl-btn.ssl-save-button:hover,
+.ssl-btn.ssl-save-button:focus {
+    background: #ed485f;    
+    color: #fff;
+    border: 1px solid #ed485f;
+    transition: all 0.3s ease;
+    box-shadow: none;
+}
+
+.ssl-settings-tabs-list {
+    margin: 0;
+    border-bottom: 1px solid #ccc;
+}
+
+/*About Settings Tab*/
+.ssl-settings-tabs-list li {
+    display: inline-block;
+    margin-bottom: 4px;
+    margin-left:0;
+}
+
+.ssl-tab-list-item {
+    padding: 9px 35px;
+    line-height: 33px;
+    font-size: 18px;
+    color: #444;
+    text-decoration: none;
+    border: 1px solid #ccc;
+    border-bottom: none;
+}
+
+.ssl-tab-list-item:focus {
+    box-shadow: none;
+}
+
+li.ui-state-default:not(.ui-state-active):hover a {
+    background: #fff;
+    color: #444;
+}
+
+li.ui-state-active a {
+    outline: none;
+    color: white;
+    background: #000;
+    box-shadow: none;
+}
+
+.ssl-row {
+    width: 100%;
+    overflow: hidden;
+}
+
+.ssl-settings-tabs  {
+    padding: 15px 25px;
+}
+
+#ssl-about {
+    margin-top: 50px;
+}
+
+.ssl-col-half {
+    width: 40%;
+    height: auto;
+    float: left;
+}
+
+.ssl-about-panel {
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.ssl-icon-container {
+    float: left;
+    display: inline-block;
+    width: 45px;
+}
+
+.ssl-icon-container i {
+    font-size: 25px;
+}
+
+.ssl-text-container {
+    display: inline-block;
+    width: 80%;
+}
+
+.ssl-text-container h4 {
+    margin: 0;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 1.9em;
+}
+
+.ssl-text-container p {
+    line-height: 22px;
+    color: #444;
+    font-size: 13px;
+    margin: 1em 0;
+}
+
+/*ELements Settings Tab*/
+.ssl-elements-table {
+    border-collapse: collapse;
+    margin-top: 2.5em;
+    margin-left: 5px;
+    width: 100%;
+    clear: both;
+}
+
+.ssl-elements-table th {
+    vertical-align: top;
+    text-align: left;
+    padding: 20px 10px 20px 0;
+    width: 200px;
+    line-height: 1.3;
+    font-weight: 600;
+}
+
+.ssl-elements-table tr:not(:last-child)>th {
+    border-bottom: 1px solid #ddd;
+}
+
+.ssl-elements-table td {
+    margin-bottom: 9px;
+    padding: 15px 10px;
+    line-height: 1.3;
+    vertical-align: middle;
+}
+
+.ssl-elements-table .ssl-element-desc {
+    font-weight: 300;
+    padding-bottom: 1.5em;
+    border-bottom: 1px solid #ddd;
+}
+
+.theme-info .comp-box {
+    display: none;
+}
+
+.theme-info .review-content {
+    margin: 50px 0;
+}
+
+.ssl-system-info-container {
+    padding: 20px;
+    border-radius: 5px;
+    background-color: #f9f9f9;
+}
+
+.ssl-system-info-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.ssl-system-info-table th, .ssl-system-info-table td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+.ssl-system-info-table th {
+    background-color: #f1f1f1;
+    font-weight: bold;
+}
+
+.ssl-system-info-table tr:nth-child(odd) td {
+    background-color: #f9f9f9;
+}
+
+.ssl-system-info-table tr:nth-child(even) td {
+    background-color: #fff;
+}
+
+#ssl-info .ssl-row h3,
+#ssl-settings .ssl-row h3 {
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.ssl-title-main {
+    display: inline-block; 
+    margin-right: 10px;
+}
+
+.plugin-version {
+    font-size: 0.5em;
+    vertical-align: middle;
+    background: #8BC34A;
+    color: #fff;
+    padding: 2px 15px;
+    border-radius: 45px;
+    margin-left: 10px;
+}

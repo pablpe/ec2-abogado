@@ -1,0 +1,48 @@
+
+---Downloaded files---
+The import files for: Lawfiz One Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = https://pablopc.com
+Data file = /var/www/html/wp-content/uploads/2025/07/demo-content-import-file_2025-07-30__11-53-50.xml
+Widget file = /var/www/html/wp-content/uploads/2025/07/demo-widgets-import-file_2025-07-30__11-53-50.json
+Customizer file = /var/www/html/wp-content/uploads/2025/07/demo-customizer-import-file_2025-07-30__11-53-50.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Footer Column1 : 
+
+Texto - LawFiz One - Imported
+
+Footer Column2 : 
+
+Archivos - No Title - Imported
+
+Footer Column3 : 
+
+Menú de navegación - Quick Links - Imported
+
+Footer Column4 : 
+
+Categorías - No Title - Imported
+
+Blog Sidebar : 
+
+Bloque - No Title - Widget already exists
+Bloque - No Title - Imported
+Bloque - No Title - Imported
+Bloque - No Title - Imported
+Bloque - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

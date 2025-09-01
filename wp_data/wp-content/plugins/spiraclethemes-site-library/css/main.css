@@ -1,0 +1,214 @@
+
+/* Demo Import */
+
+.ai-confirm-import-content #swal2-content {
+    text-align: left !important;
+    width: 75%;
+    margin: 0 auto;
+    margin-top: 20px;
+    font-size: 14px;
+    line-height: 1.5;
+    font-weight: 400;
+}
+
+.swal2-popup {
+    width: 50rem !important;
+    display: flex;
+}
+
+.swal2-title {
+    font-size: 28px !important;
+    margin: 20px 0 !important;
+}
+
+.ai-confirm-import-content #swal2-content {
+    width: 85% !important;
+}
+
+.swal2-styled.swal2-confirm,
+.swal2-styled.swal2-cancel {
+    font-size: 14px !important;
+    border: 0;
+    border-radius: .25em;
+    background: initial;
+    color: #fff;
+    font-size: 1.0625em;
+    padding: 15px 40px;
+    border-radius: 45px !important;
+}
+
+.swal2-styled.swal2-confirm {
+    background: #45c396 !important;
+}
+
+.swal2-styled.swal2-cancel {
+    background: #ea7070 !important;
+}
+
+
+.swal2-popup #swal2-content p {
+    padding-left: 20px;
+    padding-right: 13px;
+    width: 75%;
+    margin: 0 auto;
+    line-height: 1.8;
+    margin-bottom: 20px !important;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.swal2-toast #swal2-content p {
+     width: 100% !important;
+     margin-bottom: 0 !important;
+}
+
+.theme-blogson .ocdi__gl-item-container .ocdi__gl-item:last-child {
+    pointer-events: none;
+}
+
+
+#spiraclethemes-site-library-notice-id p .button {
+	display: table;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding: 15px 25px;
+    border: none;
+    background: #3582c4;
+    color: #fff;
+}
+
+#spiraclethemes-site-library-notice-id p {
+	text-align: center;
+	font-size: 17px;
+    font-weight: 500;
+}
+
+#spiraclethemes-site-library-notice-id {
+	padding: 30px 150px;
+    background-color: #000;
+    color: #fff;
+    border-left: none;
+}
+
+
+#spiraclethemes-site-library-notice-id .notice-dismiss:before {
+    background: 0 0;
+    color: #fff;
+    content: "\f153";
+    display: block;
+    font: normal 16px/20px dashicons;
+    speak: never;
+    height: 20px;
+    text-align: center;
+    width: 20px;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+.rating-div.updated {
+	padding: 70px 250px;
+    background-color: #f0f6fc;
+    color: #555;
+    border: none;
+    border-left: 5px solid #3582c4;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.rating-div.updated a {
+	color: #555;
+}
+
+.appearance_page_one-click-demo-import #spiraclethemes-site-library-notice-id {
+	display: none !important;
+}
+
+@media only screen and (max-width: 767px) {
+
+	#spiraclethemes-site-library-notice-id {
+		padding: 70px 70px;
+	}
+
+}
+
+#spiraclethemes-site-library-notice {
+    background-color: #fff;
+    border-color: #ddd;
+    color: #333;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    position: relative;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+
+#spiraclethemes-site-library-notice p {
+    margin: 0 0 15px 0;
+    padding: 0 15px;
+}
+
+#spiraclethemes-site-library-notice a.button {
+    display: block;
+    width: auto;
+    max-width: 220px;
+    padding: 8px 20px;
+    margin-top: 15px;
+    margin-bottom: 0;
+    font-size: 15px;
+    font-weight: normal;
+    line-height: 1.4;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    background-image: none;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    color: #fff;
+    background-color: #5e5ee5;
+    border-color: #5e5ee5;
+    text-decoration: none;
+    transition: background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+#spiraclethemes-site-library-notice a.button:hover {
+    background-color: #4a4ad7;
+    border-color: #4a4ad7;
+}
+
+#spiraclethemes-site-library-notice .notice-dismiss {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    padding: 0;
+    color: #999;
+    border: none;
+    background: none;
+    cursor: pointer;
+}
+
+.ssl-notice,
+.ssl-pro-upgrade-notice {
+    padding: 25px !important;
+    color: #000;
+    border: none !important;
+    background: none;
+    background: #fff !important;
+    border-radius: 4px;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04) !important;
+}
+
+#spiraclethemes-site-library-notice .notice-dismiss:before {
+    content: '\00d7';
+    font-size: 20px;
+    line-height: 1;
+}
+
+#spiraclethemes-site-library-notice .screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    height: 1px;
+    overflow: hidden;
+    position: absolute !important;
+    width: 1px;
+}

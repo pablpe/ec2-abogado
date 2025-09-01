@@ -1,0 +1,7 @@
+a:4:{s:8:"template";s:6:"lawfiz";s:4:"mods";a:12:{i:0;b:0;s:18:"nav_menu_locations";a:1:{s:7:"primary";i:2;}s:18:"custom_css_post_id";i:35;s:30:"lawfiz_enable_last_menu_button";b:1;s:33:"lawfiz_header_menu_margin_spacing";i:10;s:34:"lawfiz_header_menu_padding_spacing";i:10;s:28:"lawfiz_top_menu_button_color";s:7:"#c39953";s:34:"lawfiz_top_menu_button_hover_color";s:7:"#c18319";s:11:"custom_logo";i:39;s:33:"lawfiz_display_site_title_tagline";b:0;s:24:"lawfiz_enable_page_title";b:1;s:30:"lawfiz_enable_page_breadcrumbs";b:1;}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:105:".top-menu-wrapper {
+	text-align: right;
+}
+
+.top-menu .navigation>li:last-child {
+    margin-left: 30px;
+}";}

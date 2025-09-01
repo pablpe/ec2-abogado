@@ -1,0 +1,1310 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2024-10-14 12:57+0530\n"
+"PO-Revision-Date: 2024-10-14 12:57+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.5\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_attr;esc_attr__;"
+"esc_attr_e;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:30 404.php:47 404.php:59
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:31 404.php:48 404.php:60
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"on right or a search?"
+msgstr ""
+
+#: comments.php:35
+msgid "user-image"
+msgstr ""
+
+#: comments.php:36
+msgid "says:"
+msgstr ""
+
+#: comments.php:44
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: comments.php:48
+msgid "Edit"
+msgstr ""
+
+#: comments.php:52
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: comments.php:88 comments.php:112
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:91 comments.php:115
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:92 comments.php:116
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:129
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:134
+msgid "Comment"
+msgstr ""
+
+#: comments.php:139
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:140
+msgid "Post Comment"
+msgstr ""
+
+#: functions.php:36
+msgid ""
+"You need to update your PHP version to a minimum of 5.6 to run LawFiz "
+"WordPress Theme."
+msgstr ""
+
+#: functions.php:37
+msgid "Actual version is:"
+msgstr ""
+
+#: functions.php:37
+msgid "required is"
+msgstr ""
+
+#: functions.php:86
+msgid "Primary"
+msgstr ""
+
+#: functions.php:87
+msgid "Footer"
+msgstr ""
+
+#: functions.php:88
+msgid "Sidebar Social"
+msgstr ""
+
+#: functions.php:89
+msgid "Footer Social"
+msgstr ""
+
+#: functions.php:165
+msgid "Footer Column"
+msgstr ""
+
+#: functions.php:176 inc/theme-info.php:269
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:178 functions.php:190 functions.php:197
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:188
+msgid "Top Bar Left Column"
+msgstr ""
+
+#: functions.php:195
+msgid "Top Bar Right Column"
+msgstr ""
+
+#: functions.php:296
+msgid "Search here"
+msgstr ""
+
+#: functions.php:298
+msgid "Search"
+msgstr ""
+
+#: inc/activation/class-welcome-notice.php:197
+msgid "Insufficient permissions to install the plugin."
+msgstr ""
+
+#: inc/activation/class-welcome-notice.php:220
+msgid "Failed to initialize or activate importer plugin."
+msgstr ""
+
+#: inc/activation/class-welcome-notice.php:272
+msgid "Welcome to Lawfiz WordPress theme"
+msgstr ""
+
+#: inc/activation/class-welcome-notice.php:275
+msgid ""
+"Easily Customize all aspects of your WordPress site with Lawfiz WordPress "
+"Theme & Elementor Page Builder."
+msgstr ""
+
+#: inc/activation/class-welcome-notice.php:281
+#, php-format
+msgid "Get Started with LawFiz %s"
+msgstr ""
+
+#: inc/activation/class-welcome-notice.php:343
+msgid "Something went wrong, contact support."
+msgstr ""
+
+#: inc/breadcrumbs.php:264
+msgid "Browse:"
+msgstr ""
+
+#: inc/breadcrumbs.php:266
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:267
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/breadcrumbs.php:268
+msgid "Archives"
+msgstr ""
+
+#: inc/breadcrumbs.php:270
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:272
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:274
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:276
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:278
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:386
+#: inc/class-tgm-plugin-activation.php:827
+#: inc/class-tgm-plugin-activation.php:2533
+#: inc/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:387
+#: inc/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:934
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3509
+#: inc/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer/customizer.php:60
+msgid "Display Site Title and Tagline"
+msgstr ""
+
+#: inc/customizer/customizer.php:83
+msgid "Logo Top Spacing"
+msgstr ""
+
+#: inc/customizer/customizer.php:84
+msgid "Add logo spacing from top"
+msgstr ""
+
+#: inc/customizer/customizer.php:108
+msgid "Logo Bottom Spacing"
+msgstr ""
+
+#: inc/customizer/customizer.php:109
+msgid "Add logo spacing from bottom"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:17 inc/theme-info.php:198
+msgid "Blog Settings"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:27
+msgid "Posts"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:44
+msgid "Posts Meta"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:64
+#: inc/customizer/options/section-blog.php:356
+msgid "Show Date"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:84
+#: inc/customizer/options/section-blog.php:376
+msgid "Show Author"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:104
+#: inc/customizer/options/section-blog.php:396
+msgid "Show Comments"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:123
+#: inc/customizer/options/section-blog.php:476
+msgid "Sidebar"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:145
+#: inc/customizer/options/section-blog.php:498
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:167
+msgid "Post Excerpt"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:190
+msgid "Post Excerpt Length"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:199
+msgid "READ MORE"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:210
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:222
+msgid "Single Post"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:239
+msgid "Post Category"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:259
+msgid "Show Category"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:271
+#: template-parts/post/content-single.php:80
+msgid "Category:"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:282
+msgid "Category Text"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:298
+msgid "Post Tags"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:318
+msgid "Show Tags"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:336
+msgid "Post Meta"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:415
+msgid "Post Navigation"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:427 single.php:18
+msgid "Next Article"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:438
+msgid "Next Article Text"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:439
+#: inc/customizer/options/section-blog.php:460
+msgid "You can change the text displayed in the single post navigation"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:448 single.php:17
+msgid "Previous Article"
+msgstr ""
+
+#: inc/customizer/options/section-blog.php:459
+msgid "Previous Article Text"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:19
+#: inc/customizer/options/section-color.php:34 inc/theme-info.php:162
+#: inc/theme-info.php:234
+msgid "Color Settings"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:57
+msgid "Links Color"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:78
+msgid "Links Hover Color"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:99
+msgid "Headings Color"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:120
+msgid "Heading Hover Color"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:142
+msgid "Buttons Color"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:163
+msgid "Buttons Hover Color"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:181
+msgid "Top Menu"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:203
+msgid "Menu Color"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:220
+msgid ""
+"Note:Menu color will not work for transparent header,default color is white."
+msgstr ""
+
+#: inc/customizer/options/section-color.php:242
+msgid "Menu Button Color"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:264
+msgid "Menu Button Hover Color"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:285
+msgid "Menu Button Text Color"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:306
+msgid "Dropdown Background Color"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:328
+msgid "Dropdown Text Color"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:345
+msgid "Page Background Section"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:367
+msgid "Page Background Image Text Color"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:385
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/options/section-color.php:407
+msgid "Breadcrumb Color"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:17
+#: inc/customizer/options/section-footer.php:32 inc/theme-info.php:180
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:54
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:55
+msgid "Copyright text to be displayed in the footer. No HTML allowed."
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:70
+msgid "Footer Copyright Links Settings"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:92
+msgid "Enable Footer Links"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:114
+msgid "Link 1 Text"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:135
+msgid "Link 1 URL"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:157
+msgid "Link 2 Text"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:178
+msgid "Link 2 URL"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:200
+msgid "Link 3 Text"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:221
+msgid "Link 3 URL"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:239
+msgid "Footer Color Settings"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:261
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:283
+msgid "Footer Content Color"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:304
+msgid "Footer Links Color"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:321
+msgid "Footer Spacing"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:343
+msgid "Footer spacing(top)"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:344
+msgid "Add spacing to footers"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:368
+msgid "Footer spacing Columns"
+msgstr ""
+
+#: inc/customizer/options/section-footer.php:369
+msgid "Add spacing to footers columns"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:17 inc/theme-info.php:154
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:27
+#: inc/customizer/options/section-header.php:44
+msgid "Header Styles"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:65
+msgid "Choose Header Style"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:70
+msgid "Normal"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:71
+msgid "Transparent"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:86
+msgid "Header Menu"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:102
+msgid "Menu Last Button"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:126
+msgid "Make last menu item as button"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:127
+msgid ""
+"This will make last menu item as button which can be used as a call to action"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:143
+msgid "Header Menu Spacing"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:166
+msgid "Menu Margin Spacing"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:167
+msgid "Add margins to menu"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:192
+msgid "Menu Padding Spacing"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:193
+msgid "Add paddings to menu"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:214
+msgid "Mobile Toggle Menu"
+msgstr ""
+
+#: inc/customizer/options/section-header.php:236
+msgid "Toggle Menu Spacing"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:17 inc/theme-info.php:172
+msgid "Page Settings"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:32
+msgid "Hide Page Title"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:57
+msgid "Show Page Title Section:"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:74
+msgid "Breadcrumb Settings"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:96
+msgid "Show Breadcrumbs"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:121
+msgid "Choose Breadcrumb Type:"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:123
+msgid "Default"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:124
+msgid "NavXT"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:125
+msgid "Yoast"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:143
+msgid "Page Title Background"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:167
+msgid "Choose Page Title Background Color or Background Image:"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:168
+msgid "This setting will change the background of the page title area."
+msgstr ""
+
+#: inc/customizer/options/section-page.php:170
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:171
+msgid "Background Image"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:193
+msgid "Select Background Color"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:194
+msgid ""
+"This setting will add background color to the page title area if Background "
+"Color was selected above."
+msgstr ""
+
+#: inc/customizer/options/section-page.php:214
+msgid "Note: You have to select image from featured image section of page"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:234
+msgid "Dark Overlay Settings"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:258
+msgid "Enable Dark Overlay:"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:259
+msgid "Choose whether to show a dark overlay over page header background"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:276
+msgid "Page Title Spacing"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:299
+msgid "Page Title Height from Top(px)"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:300
+msgid "Add top padding to page title"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:325
+msgid "Page Title Height from Bottom(px)"
+msgstr ""
+
+#: inc/customizer/options/section-page.php:326
+msgid "Add bottom padding to page title"
+msgstr ""
+
+#: inc/customizer/options/section-preloader.php:17
+#: inc/customizer/options/section-preloader.php:32 inc/theme-info.php:190
+msgid "Preloader Settings"
+msgstr ""
+
+#: inc/customizer/options/section-preloader.php:52
+msgid "Show Preloader"
+msgstr ""
+
+#: inc/header-menu/content-style1.php:19 inc/header-menu/content-style1.php:22
+#: inc/header-menu/content-style2.php:19 inc/header-menu/content-style2.php:22
+msgid "skip to content"
+msgstr ""
+
+#: inc/header-menu/content-style1.php:52 inc/header-menu/content-style2.php:52
+msgid "logo"
+msgstr ""
+
+#: inc/header-menu/content-style1.php:100
+#: inc/header-menu/content-style2.php:100
+msgid "primary"
+msgstr ""
+
+#: inc/template-functions.php:44 inc/template-functions.php:54
+msgid " | Theme by "
+msgstr ""
+
+#: inc/template-functions.php:44 inc/template-functions.php:54
+msgid "Spiracle Themes"
+msgstr ""
+
+#: inc/template-functions.php:143
+msgid "SEARCH RESULTS"
+msgstr ""
+
+#: inc/template-functions.php:146
+msgid "PAGE NOT FOUND"
+msgstr ""
+
+#: inc/template-tags.php:50 inc/template-tags.php:56
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:52
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:58
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:65
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:72 template-parts/page/content-page.php:30
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/theme-info.php:113
+msgid "About LawFiz Theme"
+msgstr ""
+
+#: inc/theme-info.php:113
+msgid "Lawfiz Info"
+msgstr ""
+
+#: inc/theme-info.php:113
+msgid "lawfiz-theme-info"
+msgstr ""
+
+#: inc/theme-info.php:113
+msgid "lawfiz_theme_info"
+msgstr ""
+
+#: inc/theme-info.php:128
+msgid "Lawfiz WordPress Theme"
+msgstr ""
+
+#: inc/theme-info.php:129
+msgid ""
+"Introducing LawFiz: a sleek, professional WordPress theme crafted for "
+"lawyers by Spiracle Themes. With its clean design and mobile-friendly "
+"layout, LawFiz ensures your legal services shine on any device. Showcase "
+"your expertise with customizable homepage sections and easy-to-manage pages. "
+"Share insights and connect with clients through integrated social media "
+"features. Elevate your online presence effortlessly with LawFiz – download "
+"for free today."
+msgstr ""
+
+#: inc/theme-info.php:140
+msgid "Quick Customizer Settings"
+msgstr ""
+
+#: inc/theme-info.php:146
+msgid "Upload Logo"
+msgstr ""
+
+#: inc/theme-info.php:207
+msgid "Why should you Upgrade to our PRO Addon ?"
+msgstr ""
+
+#: inc/theme-info.php:212
+msgid "Feature"
+msgstr ""
+
+#: inc/theme-info.php:213
+msgid "Lawfiz Free"
+msgstr ""
+
+#: inc/theme-info.php:214
+msgid "Pro Addon Plugin"
+msgstr ""
+
+#: inc/theme-info.php:219
+msgid "Favicon, Logo, Title and Tagline Customization"
+msgstr ""
+
+#: inc/theme-info.php:224
+msgid "Customizer Theme Options"
+msgstr ""
+
+#: inc/theme-info.php:229
+msgid "Contact Form"
+msgstr ""
+
+#: inc/theme-info.php:239
+msgid "Footer Widget"
+msgstr ""
+
+#: inc/theme-info.php:244
+msgid "1 Click Demo Import"
+msgstr ""
+
+#: inc/theme-info.php:249
+msgid "Breadcrumb Display"
+msgstr ""
+
+#: inc/theme-info.php:254
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: inc/theme-info.php:259
+msgid "2 Header Styles"
+msgstr ""
+
+#: inc/theme-info.php:264
+msgid "Inner Pages Settings"
+msgstr ""
+
+#: inc/theme-info.php:274
+msgid "Preloader"
+msgstr ""
+
+#: inc/theme-info.php:279
+msgid "Responsive Design (Mobile, Tablets)"
+msgstr ""
+
+#: inc/theme-info.php:284
+msgid "Sidebar Options (Full, Left and Right)"
+msgstr ""
+
+#: inc/theme-info.php:290
+msgid "Top Social Icons"
+msgstr ""
+
+#: inc/theme-info.php:295
+msgid "800+ Google Fonts"
+msgstr ""
+
+#: inc/theme-info.php:301
+msgid "Slider for Homepage"
+msgstr ""
+
+#: inc/theme-info.php:306
+msgid "Typography"
+msgstr ""
+
+#: inc/theme-info.php:311
+msgid "Footer Credits Editor"
+msgstr ""
+
+#: inc/theme-info.php:316
+msgid "Extra Blog Settings"
+msgstr ""
+
+#: inc/theme-info.php:321
+msgid "WooCommerce Ready"
+msgstr ""
+
+#: inc/theme-info.php:326
+msgid "WooCommerce Settings"
+msgstr ""
+
+#: inc/theme-info.php:331
+msgid "Extra Customizer Settings"
+msgstr ""
+
+#: inc/theme-info.php:336
+msgid "Menu Cart"
+msgstr ""
+
+#: inc/theme-info.php:341
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/theme-info.php:346
+msgid "More Color Options"
+msgstr ""
+
+#: inc/theme-info.php:351
+msgid "Author Section for Single Post"
+msgstr ""
+
+#: inc/theme-info.php:356
+msgid "Related Posts Section"
+msgstr ""
+
+#: inc/theme-info.php:361
+msgid "Footer Columns Settings"
+msgstr ""
+
+#: inc/theme-info.php:366
+msgid "Extra Premium Demos"
+msgstr ""
+
+#: inc/theme-info.php:371
+msgid "Priority Support"
+msgstr ""
+
+#: inc/theme-info.php:378
+msgid "Upgrade to PRO"
+msgstr ""
+
+#: inc/theme-info.php:393
+msgid "VIEW DEMOS"
+msgstr ""
+
+#: inc/theme-info.php:402
+msgid "RATE OUR THEME"
+msgstr ""
+
+#: inc/theme-info.php:411
+msgid "VIEW DOCUMENTATION"
+msgstr ""
+
+#: inc/theme-info.php:420
+msgid "VIDEO TUTORIALS"
+msgstr ""
+
+#: inc/theme-info.php:429
+msgid "ASK FOR SUPPORT"
+msgstr ""
+
+#: inc/theme-info.php:438
+msgid "VIEW CHANGELOGS"
+msgstr ""
+
+#: inc/theme-info.php:449
+msgid " Please "
+msgstr ""
+
+#: inc/theme-info.php:450
+msgid "rate our theme"
+msgstr ""
+
+#: inc/theme-info.php:452
+msgid " to help us spread the word. Thank you from the Spiracle Themes team!"
+msgstr ""
+
+#: lawfiz-pro/class-customize.php:77
+msgid "Lawfiz Pro"
+msgstr ""
+
+#: lawfiz-pro/class-customize.php:78
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: search.php:31 search.php:67 search.php:98
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: single.php:48 single.php:81 single.php:121 single.php:151 single.php:184
+msgid "Posts navigation"
+msgstr ""
+
+#: template-parts/page/content-page.php:18 template-parts/post/content.php:37
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/post/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/post/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/post/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/post/content-none.php:30
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/post/content-search.php:19
+msgid "Posted on"
+msgstr ""
+
+#: template-parts/post/content-search.php:20
+msgid "Posted by"
+msgstr ""
+
+#: template-parts/post/content-search.php:21
+msgid "Comments"
+msgstr ""
+
+#: template-parts/post/content-single.php:60
+msgid "pages"
+msgstr ""
+
+#: template-parts/post/content.php:47
+msgid "Categories:"
+msgstr ""
+
+#: template-parts/post/content.php:53
+msgid "READ MORE +"
+msgstr ""
