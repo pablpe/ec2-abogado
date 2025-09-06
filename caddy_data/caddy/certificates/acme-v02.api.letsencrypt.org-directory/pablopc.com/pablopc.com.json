@@ -1,0 +1,19 @@
+{
+	"sans": [
+		"pablopc.com"
+	],
+	"issuer_data": {
+		"url": "https://acme-v02.api.letsencrypt.org/acme/cert/0532d5e62dc8a3d2be296966aab9bde825cb",
+		"ca": "https://acme-v02.api.letsencrypt.org/directory",
+		"account": "https://acme-v02.api.letsencrypt.org/acme/acct/2559007401",
+		"renewal_info": {
+			"suggestedWindow": {
+				"start": "2025-09-25T21:20:57Z",
+				"end": "2025-09-27T16:31:46Z"
+			},
+			"_uniqueIdentifier": "nytfzzwhT50Et-0rLMTGcIvS1w0.BTLV5i3Io9K-KWlmqrm96CXL",
+			"_retryAfter": "2025-09-06T17:30:27.367281976Z",
+			"_selectedTime": "2025-09-26T06:06:45Z"
+		}
+	}
+}
